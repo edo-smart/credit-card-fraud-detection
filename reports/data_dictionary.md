@@ -4,8 +4,6 @@
 ## Dataset
 Credit Card Fraud Detection Dataset
 
----
-
 ## Dataset Overview
 
 This dataset contains credit card transactions made by European cardholders in September 2013.
@@ -17,8 +15,6 @@ It contains:
 - Binary target variable (Class)
 
 Due to confidentiality, most features have been transformed using Principal Component Analysis (PCA).
-
----
 
 ## Data Dictionary
 
@@ -56,8 +52,6 @@ Due to confidentiality, most features have been transformed using Principal Comp
 | Amount | Numeric | Transaction amount |
 | Class | Integer | Target variable (0 = Legitimate, 1 = Fraudulent) |
 
----
-
 ## Target Variable
 
 ### Class
@@ -65,8 +59,6 @@ Due to confidentiality, most features have been transformed using Principal Comp
 0 → Legitimate Transaction
 
 1 → Fraudulent Transaction
-
----
 
 ## Notes
 

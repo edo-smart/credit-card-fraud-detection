@@ -3,15 +3,11 @@
 ## Project Title
 Credit Card Fraud Detection Using Machine Learning
 
----
-
 ## Business Problem
 
 Credit card fraud is a major challenge for financial institutions, resulting in significant financial losses, reputational damage, and reduced customer trust. Fraudulent transactions often occur within seconds, making manual detection inefficient and impractical.
 
 The objective of this project is to develop a machine learning model capable of identifying fraudulent credit card transactions in real time while minimizing false alarms. The solution should assist banks in detecting suspicious transactions quickly, reducing financial losses and improving customer security.
-
----
 
 ## Objectives
 
@@ -29,8 +25,6 @@ Develop a machine learning model that accurately classifies credit card transact
 - Prepare the model for deployment through an API.
 - Build a production-ready and reproducible ML pipeline.
 
----
-
 ## Stakeholders
 
 The success of this project depends on several stakeholders:
@@ -45,8 +39,6 @@ The success of this project depends on several stakeholders:
 - Software Engineers
 - Business Analysts
 
----
-
 ## Challenges
 
 Several challenges are expected during this project:
@@ -57,8 +49,6 @@ Several challenges are expected during this project:
 - Detecting new and evolving fraud patterns.
 - Maintaining high performance for real-time predictions.
 - Ensuring data privacy and security.
-
----
 
 ## Success Metrics
 
@@ -73,8 +63,6 @@ The model will be evaluated using the following metrics:
 
 The primary business goal is to maximize fraud detection while minimizing incorrect fraud alerts.
 
----
-
 ## Risks
 
 Potential risks include:
@@ -86,8 +74,6 @@ Potential risks include:
 - Poor-quality or incomplete data.
 - High false positive rates affecting customer experience.
 
----
-
 ## Assumptions
 
 The following assumptions are made:
@@ -97,8 +83,6 @@ The following assumptions are made:
 - Historical fraud patterns can help detect future fraud.
 - The dataset has sufficient information for training effective models.
 - New incoming transactions follow a similar distribution to the training data.
-
----
 
 ## Expected Deliverables
 
@@ -111,8 +95,6 @@ The following assumptions are made:
 - REST API for predictions
 - Deployment-ready application
 - Project documentation
-
----
 
 ## Project Status
 
