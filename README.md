@@ -64,10 +64,10 @@ credit-card-fraud-detection/
 
 ## Project Roadmap
 
-- [x] Project setup
-- [ ] Data collection
-- [ ] Exploratory Data Analysis
-- [ ] Data preprocessing
+- [Day_1] Project setup
+- [Day_2] Data collection
+- [Day_3] Exploratory Data Analysis
+- [Day_4] Data preprocessing
 - [ ] Feature engineering
 - [ ] Model training
 - [ ] Hyperparameter tuning
